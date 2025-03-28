@@ -1,5 +1,5 @@
 import React from 'react'
-import StandardButtons from './standardButtons'
+import StandardButtons from './StandardButtons'
 import OutlineButtons from './OutlineButtons'
 import RoundedButtons from './RoundedButtons'
 
